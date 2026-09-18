@@ -12,5 +12,11 @@
   },
   "engines": {
     "node": ">=18"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.6.1",
+    "postcss": "^8.5.28",
+    "sass": "^1.104.1",
+    "tailwindcss": "^4.3.3"
   }
 }
