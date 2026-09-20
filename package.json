@@ -15,6 +15,7 @@
     "node": ">=18"
   },
   "devDependencies": {
+    "@tailwindcss/postcss": "^4.3.3",
     "autoprefixer": "^10.6.1",
     "postcss": "^8.5.28",
     "sass": "^1.104.1",
